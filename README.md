@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # Meta Tag Extractor
 
 The Meta Tag Extractor is a simple Streamlit application that allows users to extract and view meta tags from any webpage by entering its URL. It is particularly useful for analyzing SEO metadata and social media sharing tags.
